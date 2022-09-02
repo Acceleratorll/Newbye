@@ -1,6 +1,6 @@
 Hello World
 
 Nama : Moch Fajrul Falah
-Kelas : TI-3b
+Kelas : TI-3B
 NIM : 2041720070
-![Screenshot](images/screeshots.jpg)
+![Screenshot](images\screeshots.jpg)
